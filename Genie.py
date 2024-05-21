@@ -4,7 +4,7 @@ import sys
 import time
 import threading
 
-API_KEY = "AIzaSyDqEuR1WSpRnGpWeYihSYORMxxy6n-PnME"
+API_KEY = "Add_Your_API_Key"
 URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=" + API_KEY
 
 text = ""
